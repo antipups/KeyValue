@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="code.excel.PATH_TO_SECOND_EXCEL" />
+          <option value="code.excel.PATH_TO_FIRST_EXCEL" />
+          <option value="code.parser.PATH_TO_DOCUMENTS" />
+          <option value="code.parser.HEADERS" />
+          <option value="code.parser.PATH_TO_PHOTOS" />
+          <option value="code.parser.AMOUNT_OF_THREADS" />
+          <option value="code.parser.HEADERS_FOR_CARD" />
+          <option value="code.parser.config" />
+          <option value="excel" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
