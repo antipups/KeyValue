@@ -1,2 +1,7 @@
 # Project exclude paths
 /venv/
+/.idea/
+/build/
+/dist/
+/finder.spec
+/__pycache__/
